@@ -1,0 +1,10 @@
+1 king 550
+2 king 550
+3 palyer 170
+4 palyer 140
+5 palyer 130
+6 demon 110
+7 palyer 90
+8 palyer 80
+9 palyer1 50
+10 palyer2 50

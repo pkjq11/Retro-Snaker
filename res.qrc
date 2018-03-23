@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>res/end.png</file>
+        <file>res/over.jpeg</file>
+        <file>res/ranking.png</file>
+        <file>res/restart.png</file>
+        <file>res/snake.jpeg</file>
+        <file>res/music.png</file>
+        <file>res/description.png</file>
+        <file>res/startbgp.jpeg</file>
+        <file>res/1P.png</file>
+        <file>res/2P.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>res/numb.mp3</file>
+    </qresource>
+</RCC>
