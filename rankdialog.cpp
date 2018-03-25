@@ -17,7 +17,7 @@ RankDialog::RankDialog(QWidget *parent):QDialog(parent),
     setWindowTitle(tr("Ranking List"));
     setFixedSize(200,200);
     m_rankpanel->setReadOnly(true);
-    QFile ranTxt("ranking.txt");
+    QFile ranTxt("E:\\postgraduate_odd_jobs\\work\\Retro-Snaker\\ranking.txt");
     if(ranTxt.open(QFile::ReadOnly)){
         QTextStream data(&ranTxt);
         QString line;
