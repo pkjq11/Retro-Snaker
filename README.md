@@ -1,1 +1,1 @@
-详见说明文档
+Please refer to each document for details
